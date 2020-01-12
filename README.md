@@ -14,4 +14,4 @@ python swagger_generator.py < [InputFileName(YAML)] > [OutputFileName(HTML)]
 ````
 
 ## Make YAML??
-you can write yaml file in https://editor.swagger.io/
+You can write yaml file in https://editor.swagger.io/
