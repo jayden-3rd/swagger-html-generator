@@ -10,4 +10,8 @@ html contents from : https://github.com/swagger-api/swagger-ui/blob/master/dist/
 # How To Use
 ````
 pip install -r requirements.txt
-python swagger_generator.py < [InputFileName] > [OutputFileName]
+python swagger_generator.py < [InputFileName(YAML)] > [OutputFileName(HTML)]
+````
+
+# Make YAML??
+you can write yaml file in https://editor.swagger.io/
